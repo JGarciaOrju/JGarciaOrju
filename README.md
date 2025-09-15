@@ -20,6 +20,14 @@
   </p>
 <br>
 
+## 🚀 Featured Projects  
+
+- 🔗 [My Portfolio](https://github.com/JGarciaOrju/My-Portfolio) → Personal portfolio site.  
+- 🛒 [Carro de Compras](https://github.com/JGarciaOrju/carro-de-compras) → Small shopping cart project.  
+- 🔑 [Auth Project](https://github.com/JGarciaOrju/auth-proyect-learning) → Learning authentication with JS.  
+
+
+
 <h2 >Known technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -30,7 +38,12 @@
 <br>
 <!-------------------------->
 
+## 📚 Currently Learning
+- TypeScript
+- Express.js
+- Docker & DevOps basics
 <!--- stats & Trophy (start) -->
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
