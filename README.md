@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Systems engineering student in the eighth semester.
+🎓 Ninth-semester systems engineering student.
 
 💻 Currently looking for a position to gain experience as a web developer.
 
