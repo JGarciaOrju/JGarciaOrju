@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Ninth-semester systems engineering student.
 
-💻 Currently looking for a position to gain experience as a web developer.
+💻 Currently looking for a position to gain more experience as developer.
 
 📝 Roles in the field: Developer, Frontend, Backend, Programmer, Ingenious, Leader, Clever, Capable.
 
